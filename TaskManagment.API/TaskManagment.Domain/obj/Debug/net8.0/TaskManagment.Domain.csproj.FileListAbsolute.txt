@@ -1,0 +1,12 @@
+D:\NewElene\TaskManagment.API\TaskManagment.Domain\bin\Debug\net8.0\TaskManagment.Domain.deps.json
+D:\NewElene\TaskManagment.API\TaskManagment.Domain\bin\Debug\net8.0\TaskManagment.Domain.dll
+D:\NewElene\TaskManagment.API\TaskManagment.Domain\bin\Debug\net8.0\TaskManagment.Domain.pdb
+D:\NewElene\TaskManagment.API\TaskManagment.Domain\obj\Debug\net8.0\TaskManagment.Domain.csproj.AssemblyReference.cache
+D:\NewElene\TaskManagment.API\TaskManagment.Domain\obj\Debug\net8.0\TaskManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewElene\TaskManagment.API\TaskManagment.Domain\obj\Debug\net8.0\TaskManagment.Domain.AssemblyInfoInputs.cache
+D:\NewElene\TaskManagment.API\TaskManagment.Domain\obj\Debug\net8.0\TaskManagment.Domain.AssemblyInfo.cs
+D:\NewElene\TaskManagment.API\TaskManagment.Domain\obj\Debug\net8.0\TaskManagment.Domain.csproj.CoreCompileInputs.cache
+D:\NewElene\TaskManagment.API\TaskManagment.Domain\obj\Debug\net8.0\TaskManagment.Domain.dll
+D:\NewElene\TaskManagment.API\TaskManagment.Domain\obj\Debug\net8.0\refint\TaskManagment.Domain.dll
+D:\NewElene\TaskManagment.API\TaskManagment.Domain\obj\Debug\net8.0\TaskManagment.Domain.pdb
+D:\NewElene\TaskManagment.API\TaskManagment.Domain\obj\Debug\net8.0\ref\TaskManagment.Domain.dll

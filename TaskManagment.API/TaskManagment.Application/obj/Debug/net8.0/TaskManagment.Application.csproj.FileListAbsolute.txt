@@ -1,0 +1,15 @@
+D:\NewElene\TaskManagment.API\TaskManagment.Application\bin\Debug\net8.0\TaskManagment.Application.deps.json
+D:\NewElene\TaskManagment.API\TaskManagment.Application\bin\Debug\net8.0\TaskManagment.Application.dll
+D:\NewElene\TaskManagment.API\TaskManagment.Application\bin\Debug\net8.0\TaskManagment.Application.pdb
+D:\NewElene\TaskManagment.API\TaskManagment.Application\bin\Debug\net8.0\TaskManagment.Domain.dll
+D:\NewElene\TaskManagment.API\TaskManagment.Application\bin\Debug\net8.0\TaskManagment.Domain.pdb
+D:\NewElene\TaskManagment.API\TaskManagment.Application\obj\Debug\net8.0\TaskManagment.Application.csproj.AssemblyReference.cache
+D:\NewElene\TaskManagment.API\TaskManagment.Application\obj\Debug\net8.0\TaskManagment.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewElene\TaskManagment.API\TaskManagment.Application\obj\Debug\net8.0\TaskManagment.Application.AssemblyInfoInputs.cache
+D:\NewElene\TaskManagment.API\TaskManagment.Application\obj\Debug\net8.0\TaskManagment.Application.AssemblyInfo.cs
+D:\NewElene\TaskManagment.API\TaskManagment.Application\obj\Debug\net8.0\TaskManagment.Application.csproj.CoreCompileInputs.cache
+D:\NewElene\TaskManagment.API\TaskManagment.Application\obj\Debug\net8.0\TaskManagment.Application.csproj.CopyComplete
+D:\NewElene\TaskManagment.API\TaskManagment.Application\obj\Debug\net8.0\TaskManagment.Application.dll
+D:\NewElene\TaskManagment.API\TaskManagment.Application\obj\Debug\net8.0\refint\TaskManagment.Application.dll
+D:\NewElene\TaskManagment.API\TaskManagment.Application\obj\Debug\net8.0\TaskManagment.Application.pdb
+D:\NewElene\TaskManagment.API\TaskManagment.Application\obj\Debug\net8.0\ref\TaskManagment.Application.dll
